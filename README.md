@@ -1,7 +1,8 @@
 ## 前端整理
 
 ### 基础
- - hello
+ - js方法
+ - - [js扩展对象方法](https://note.youdao.com/)
 ### 算法
- - hello
+ - 算法
 ### 架构

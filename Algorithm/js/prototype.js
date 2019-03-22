@@ -12,8 +12,7 @@ Array.prototype.unique = function () {
 }
 
 Number.prototype.factorial = function () {
-    console.log(arguments)
-    // [num] = arguments || 1
-    // if (num <= 1) return 1;
-    // return num * this.factorial(num - 1);
+    [num] = arguments || 1
+    if (num <= 1) return 1;
+    return num * this.factorial(num - 1);
 }
