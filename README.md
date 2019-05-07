@@ -2,7 +2,8 @@
 
 ### 基础
  - js方法
- - - [js扩展对象方法](https://github.com/hou1183633065/web_organize_notes/blob/master/Algorithm/js/prototype.js)
+ - - [数组方法扩展](https://github.com/hou1183633065/web_organize_notes/blob/master/Algorithm/js/prototype/Array.js)
+ - - [对象方法扩展](https://github.com/hou1183633065/web_organize_notes/blob/master/Algorithm/js/prototype/Object.js)
 
  - js封装整理类
  - - [时间戳转换指定格式时间](https://github.com/hou1183633065/web_organize_notes/blob/master/Algorithm/js/DateFomatter.js)
@@ -20,6 +21,9 @@
 > ***函数节流：*** 每个周期内函数都会被执行一次，同一个周期不会执行多次
 
 > ***区别：*** 函数防抖不管事件在规定时间内调用多少次，最终只会在最后一次调用时执行，事件节流不管事件触发有多频繁，都会保证规定时间内会被执行一次事件处理函数
+
+ - [函数柯里化(Currying)](https://github.com/hou1183633065/web_organize_notes/blob/master/Algorithm/js/DebouncingAndThrottling.js)
+ > 柯里化是把接收多个参数变换成接受一个单一参数的函数，并且返回接受余下的参数切返回结果的新函数的技术。
 
 ### 算法
  - 算法
